@@ -1,4 +1,5 @@
-# Reproducer for Scoverage issue
+# Reproducer for Scoverage issue 
+https://github.com/scoverage/scalac-scoverage-plugin/issues/356
 
 ## Summary
 
